@@ -1,5 +1,5 @@
 {
-  "name": "webpack-version-plugin",
+  "name": "@mrz/webpack-version-plugin",
   "version": "0.0.1",
   "description": "控制台打印当前构建版本号和构建时间",
   "main": "index.js",
