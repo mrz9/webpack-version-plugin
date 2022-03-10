@@ -4,7 +4,11 @@
   "description": "控制台打印当前构建版本号和构建时间",
   "main": "index.js",
   "scripts": {},
-  "author": "webfe",
+  "author": "mrz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrz9/mrz-log.git"
+  },
   "license": "ISC",
   "peerDependencies": {},
   "dependencies": {}
